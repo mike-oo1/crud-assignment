@@ -1,0 +1,32 @@
+{
+    "employeeRecords":[
+        {
+            "id":1,
+            "employeeName":"Onyilimba Cynthia",
+            "employeePhoneNumber":2349079123456,
+            "employeePosition":"UIUX tutor",
+            "employeeSalary":350000,
+            "employeeAddress":"24 road close F  festac, amuwo-odofin",
+            "employeeGender":"female"
+        },
+        {
+            "id":2,
+            "employeeName":"Colin Decorce",
+            "employeePhoneNumber":2349079123456,
+            "employeePosition":"frontEnd tutor",
+            "employeeSalary":350000,
+            "employeeAddress":"24 road close F  festac, amuwo-odofin",
+            "employeeGender":"male"
+
+        },
+        {
+            "id":3,
+            "employeeName":"Ubani Friday",
+            "employeePhoneNumber":2349079123456,
+            "employeePosition":"backEnd tutor",
+            "employeeSalary":350000,
+            "employeeAddress":"24 road close F  festac, amuwo-odofin",
+            "employeeGender":"male"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+   "contactList": [
+        {"id":1,
+        "name":"cynthia",
+        "phoneNumber":2348034960944,
+        "age":15
+    },
+    {
+        "id":2,
+        "name":"Blessing",
+        "phoneNumber":2349079166421,
+        "age":18
+
+    },
+    {
+        "id":3,
+        "name":"Michael",
+        "phoneNumber":2349166133743,
+        "age":19
+    }
+    ]
+}

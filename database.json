@@ -1,0 +1,22 @@
+{
+  "contactList": [
+    {
+      "id": 1,
+      "name": "bolale",
+      "phoneNumber": "09166133745",
+      "age": 26
+    },
+    {
+      "id": 2,
+      "name": "Blessing",
+      "phoneNumber": "09079166421",
+      "age": 18
+    },
+    {
+      "id": 3,
+      "name": "Michael",
+      "phoneNumber": "09166133743",
+      "age": 19
+    }
+  ]
+}

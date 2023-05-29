@@ -1,0 +1,32 @@
+{
+  "todoList": [
+    {
+      "id": 2,
+      "name": "josephine",
+      "event": "brush your teeth",
+      "event2": "sweep the house",
+      "event3": "cook lunch"
+    },
+    {
+      "id": 3,
+      "name": "anthonia",
+      "event": "brush your teeth",
+      "event2": "sweep the house",
+      "event3": "cook breakfast"
+    },
+    {
+      "id": 4,
+      "name": "sandra",
+      "event": "walk the dogs",
+      "event2": "sweep the house",
+      "event3": "go to church"
+    },
+    {
+      "id": 5,
+      "name": "martha",
+      "event": "go to the grocery store",
+      "event2": "buy some food stuffs",
+      "event3": "cook some food"
+    }
+  ]
+}

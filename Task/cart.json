@@ -1,0 +1,36 @@
+{
+  "cartItems": [
+    {
+      "id": 1,
+      "product": "selfie-ring-light",
+      "amount": 98000,
+      "category": "gadgets",
+      "description": "this product provides u with 100watt bulb power which makes it very bright for pictures and videos",
+      "ratings": 4
+    },
+    {
+      "id": 2,
+      "product": "sky Beard Oil",
+      "category": "fashion",
+      "amount": 3500,
+      "description": "this product was made from aloevera and shea butter which makes your beards grow naturally and shine bright",
+      "ratings": 5
+    },
+    {
+      "id": 3,
+      "product": "iphone 14 ro max",
+      "amount": 1800000,
+      "category": "gadgets",
+      "description": "the newly improved iphone brings satsisfaction to you",
+      "ratings": 5
+    },
+    {
+      "product": "hp laptop",
+      "amount": 478000,
+      "category": "gadgets",
+      "description": "this product provides you with high storage space and swift processor",
+      "ratings": 5,
+      "id": 4
+    }
+  ]
+}
